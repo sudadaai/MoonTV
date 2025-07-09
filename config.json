@@ -80,7 +80,10 @@
     "豪华": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
+    },
+    "暴风": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源"
     }
-    
   }
 }
